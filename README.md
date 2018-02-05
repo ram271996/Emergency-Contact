@@ -1,0 +1,2 @@
+# Emergency-Contact
+In my android app named ‘EMERGENCY CONTACT’ people can register their information and the detail of one person whom they want to contact in case some emergency occurs. Emergency like needed an ambulance, need information or location about nearby hospitals, need contact no of ambulance, police station, fire station they can get in through this app. They can also get information or location about nearby police station,fire station as well. 
